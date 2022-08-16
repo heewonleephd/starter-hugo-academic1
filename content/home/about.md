@@ -1,10 +1,9 @@
 ---
 widget: about
-active: true
+widget_id: about
 headless: true
 weight: 10
-
 title: Home
+active: true
 author: admin
-
 ---
