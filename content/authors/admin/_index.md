@@ -40,6 +40,5 @@ superuser: true
 ---
 
 I am a Ph.D. candidate in the Askew School of Public Administration and Policy at Florida State University. 
-
 I study collaborative governance and management, and sustainability policy. 
 
