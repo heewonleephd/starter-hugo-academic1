@@ -1,7 +1,7 @@
 ---
 widget: about
 headless: true
-weight: 10
+weight: 20
 title: Home
 active: true
 author: admin
