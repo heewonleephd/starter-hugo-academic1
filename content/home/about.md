@@ -1,8 +1,10 @@
 ---
-widget: "#about"
-widget_id: about
-headless: true
+widget: about
 active: true
-author: admin
+headless: true
 weight: 10
+
+title: Home
+author: admin
+
 ---
