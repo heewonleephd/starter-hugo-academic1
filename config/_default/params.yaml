@@ -103,6 +103,8 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+    ai:
+    enable: true 
 
 # Security
 
@@ -111,6 +113,3 @@ security:
   allow_frame: true
 
 
-
- [icon.pack]
-  ai = true 
