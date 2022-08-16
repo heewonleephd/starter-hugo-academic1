@@ -11,7 +11,7 @@ main:
     url: 'https://drive.google.com/file/d/1ZEKrAXW-95FcEt0UjYNfzrogi1IgbXgb/view?usp=sharing'
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: 'content/publication/example/index.md'
     wegiht: 30
   
 # Link to a PDF of your resume/CV from the menu.
