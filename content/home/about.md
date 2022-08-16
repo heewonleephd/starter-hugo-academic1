@@ -1,5 +1,5 @@
 ---
-widget: #about
+widget: about
 active: true
 headless: true
 weight: 10
